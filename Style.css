@@ -1,0 +1,56 @@
+body {
+background-color: black;
+}
+h1 {
+color: green;
+text-align: center;
+}
+h2 {
+color: green;
+text-align: left;
+}
+p1 {
+color: green;
+text-align: left;
+  font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 18px;
+}
+p2 {
+color: green;
+text-align: left;
+  font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 18px;
+}
+p3 {
+color: green;
+text-align: left;
+  font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 10px;
+}
+p4 {
+color: black;
+text-align: left;
+  font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+p5 {
+color: green;
+text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+p6 {
+color: green;
+text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+p7 { 
+color: green;
+text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+.boldtext {
+font-weight: bold;
+}
+.italictext {
+font-style: italic;
+}
